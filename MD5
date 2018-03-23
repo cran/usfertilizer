@@ -1,0 +1,13 @@
+5874758771ace8229e40d692769853bb *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+9c41ffa609636f569ad6321cc5adc291 *R/data.R
+526fe2a3818453461b54e09cf62f6db8 *R/usfertilizer.R
+3512432e5a8cd1527c6c07237ee1e5d8 *build/vignette.rds
+d93f26663dacb2a3e65140fa343bb2e5 *data/datalist
+3cc7147023596c7a14ba7788b8f1f4e7 *data/us_fertilizer_county.rda
+3c9e4d9a9c3652e6711747dfb42dcdd4 *inst/doc/Introduction.R
+0ec3420faac1ffc83ac0c50edcc3baea *inst/doc/Introduction.Rmd
+ea928801411455399acae723ac858d98 *inst/doc/Introduction.html
+fe91376acd7346723b5ecaa20ae5c4eb *man/us_fertilizer_county.Rd
+cbcd05dbd487757582332a5ee1a664ab *man/usfertilizer-package.Rd
+0ec3420faac1ffc83ac0c50edcc3baea *vignettes/Introduction.Rmd
