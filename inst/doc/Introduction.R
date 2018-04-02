@@ -4,10 +4,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
-## ---- eval=FALSE---------------------------------------------------------
-#  # install.package("devtools") # In case you have not installed it.
-#  devtools::install_github("wenlong-liu/usfertilizer")
-
 ## ---- eval= FALSE--------------------------------------------------------
 #  install.packages("usfertilizer")
 
